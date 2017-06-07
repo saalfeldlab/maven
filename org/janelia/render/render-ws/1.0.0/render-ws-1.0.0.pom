@@ -5,7 +5,7 @@
     <parent>
         <artifactId>modules-root</artifactId>
         <groupId>org.janelia.render</groupId>
-        <version>1.0.0</version>
+        <version>${render-version}</version>
     </parent>
 
     <name>Render Web Service</name>
@@ -21,6 +21,18 @@
                     <packagingExcludes>WEB-INF/lib/log4j*.jar</packagingExcludes>
                 </configuration>
             </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-source-plugin</artifactId>
+                <executions>
+                    <execution>
+                        <id>attach-sources</id>
+                        <goals>
+                            <goal>jar</goal>
+                        </goals>
+                    </execution>
+                </executions>
+            </plugin>
         </plugins>
     </build>
 
@@ -29,7 +41,7 @@
         <dependency>
             <groupId>org.janelia.render</groupId>
             <artifactId>render-app</artifactId>
-            <version>1.0.0</version>
+            <version>${render-version}</version>
         </dependency>
 
         <dependency>

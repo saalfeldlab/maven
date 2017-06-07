@@ -5,7 +5,7 @@
     <parent>
         <artifactId>modules-root</artifactId>
         <groupId>org.janelia.render</groupId>
-        <version>1.0.0</version>
+        <version>${render-version}</version>
     </parent>
 
     <name>Render Application</name>

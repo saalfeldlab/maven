@@ -5,12 +5,30 @@
     <parent>
         <artifactId>modules-root</artifactId>
         <groupId>org.janelia.render</groupId>
-        <version>1.0.0</version>
+        <version>${render-version}</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
     <name>Render Documents</name>
     <artifactId>docs</artifactId>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-source-plugin</artifactId>
+                <executions>
+                    <execution>
+                        <id>attach-sources</id>
+                        <goals>
+                            <goal>jar</goal>
+                        </goals>
+                    </execution>
+                </executions>
+            </plugin>
+
+        </plugins>
+    </build>
 
     <dependencies>
 
