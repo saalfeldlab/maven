@@ -1,6 +1,7 @@
 # Saalfeld Lab Releases for Maven Users
 
 This maven repository contains stable releases of Saalfeld Lab software not available in Maven Central.
+Lab members can find information on how to package and publish releases [here](how_to_publish.md).
 
 ## How to use
 Add this to your pom.xml:
