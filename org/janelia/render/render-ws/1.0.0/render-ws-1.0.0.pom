@@ -19,6 +19,8 @@
                 <version>2.6</version>
                 <configuration>
                     <packagingExcludes>WEB-INF/lib/log4j*.jar</packagingExcludes>
+                    <attachClasses>true</attachClasses>
+                    <classesClassifier>classes</classesClassifier>
                 </configuration>
             </plugin>
             <plugin>
