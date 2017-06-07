@@ -1,10 +1,8 @@
 # Saalfeld Lab Releases for Maven Users
 
 This maven repository contains stable releases of Saalfeld Lab software not available in Maven Central.
-&nbsp;
 
--------------------------------------------------------
-# How to use
+## How to use
 Add this to your pom.xml:
 
 ```
@@ -16,11 +14,9 @@ Add this to your pom.xml:
 </repositories>
 ```
 Then add dependencies for the specific components you wish to use.
-&nbsp;
 
--------------------------------------------------------
-# Renderer Toolkit Releases
-&nbsp;
+## Renderer Toolkit Releases
+
 | Version | Date | Source |
 | ------- | ---- | ------ |
 | **0.3.0** | 5 Jan 2017 | [https://github.com/saalfeldlab/render/releases/tag/v0.3.0] |
