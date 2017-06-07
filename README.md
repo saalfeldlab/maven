@@ -37,6 +37,7 @@ Then add dependencies for the specific components you wish to use.
         <groupId>org.janelia.render</groupId>
         <artifactId>render-ws</artifactId>
         <version>${render.version}</version>
+        <classifier>classes</classifier>
     </dependency>
     <dependency>
         <!-- Java client components that utilize render web services -->
