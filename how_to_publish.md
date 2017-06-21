@@ -11,13 +11,9 @@ git clone https://github.com/saalfeldlab/maven.git
 In your source root pom.xml, configure the maven distribution URL to point to the local directory where you cloned the git repo.
 
 > NOTE: In the example below, the git repo was cloned under **/Users/trautmane/git**, 
->       so the saalfeld-maven-path property is defined as **/Users/trautmane/git/maven**
+>       so the `deploy.path` property is passed as **/Users/trautmane/git/maven**
 
 ```xml
-    <properties>
-        <saalfeld-maven-path>/Users/trautmane/git/maven</saalfeld-maven-path>
-    </properties>
-
     <build>
         <pluginManagement>
             <plugins>
@@ -25,7 +21,7 @@ In your source root pom.xml, configure the maven distribution URL to point to th
                     <artifactId>maven-deploy-plugin</artifactId>
                     <version>2.8.1</version>
                     <configuration>
-                        <altDeploymentRepository>internal.repo::default::file://${saalfeld-maven-path}</altDeploymentRepository>
+                        <altDeploymentRepository>internal.repo::default::file://${deploy.path}</altDeploymentRepository>
                     </configuration>
                 </plugin>
             </plugins>
@@ -34,9 +30,9 @@ In your source root pom.xml, configure the maven distribution URL to point to th
 
     <distributionManagement>
         <repository>
-            <id>local-saalfeld-maven-repo</id>
-            <name>Local Saalfeld Repo</name>
-            <url>file://${saalfeld-maven-path}</url>
+            <id>local-maven-repo</id>
+            <name>Local Maven Repository</name>
+            <url>file://${deploy.path}</url>
         </repository>
     </distributionManagement>
 
@@ -45,14 +41,14 @@ In your source root pom.xml, configure the maven distribution URL to point to th
 ## 3. Deploy Source Artifacts Locally
 
 ```bash
-mvn clean deploy
+mvn Ddeploy.path=/Users/trautmane/git/maven clean deploy
 ```
 
 ## 4. Update README 
 
 ```bash
-cd ${saalfeld-maven-path}
-vi README.md
+cd /Users/trautmane/git/maven
+vim README.md
 
 # add information about new release to README
 ```
@@ -60,7 +56,7 @@ vi README.md
 ## 5. Commit Changes to GitHub 
 
 ```bash
-cd ${saalfeld-maven-path}
+cd /Users/trautmane/git/maven
 git add .
 git commit -m "add release x.y.z for project foo"
 git push
