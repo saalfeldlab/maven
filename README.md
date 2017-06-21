@@ -76,3 +76,20 @@ Then add dependencies for the specific components you wish to use.
     </dependency>
 </dependencies>
 ```
+
+## N5 ImgLib2 Releases
+
+| Version | Date | Source |
+| ------- | ---- | ------ |
+| **1.0.0** | 21 Jun 2017 | [https://github.com/saalfeldlab/n5-imglib2/tree/1.0.0] |
+
+### Components
+```
+<dependencies>
+    <dependency>
+        <groupId>org.janelia.saalfeldlab</groupId>
+        <artifactId>n5-imglib2</artifactId>
+        <version>${n5-imglib2.version}</version>
+    </dependency>
+</dependencies>
+```
