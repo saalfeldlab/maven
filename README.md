@@ -65,6 +65,7 @@ Then add dependencies for the specific components you wish to use.
 | Version | Date | Source |
 | ------- | ---- | ------ |
 | **1.0.0** | 21 Jun 2017 | [https://github.com/saalfeldlab/n5/tree/1.0.0] |
+| **1.1.0** | 23 Jun 2017 | [https://github.com/saalfeldlab/n5/tree/1.1.0] |
 
 ### Components
 ```
