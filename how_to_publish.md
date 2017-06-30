@@ -41,7 +41,7 @@ In your source root pom.xml, configure the maven distribution URL to point to th
 ## 3. Deploy Source Artifacts Locally
 
 ```bash
-mvn Ddeploy.path=/Users/trautmane/git/maven clean deploy
+mvn -Ddeploy.path=/Users/trautmane/git/maven clean deploy
 ```
 
 ## 4. Update README 
