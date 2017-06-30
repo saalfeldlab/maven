@@ -96,3 +96,20 @@ Then add dependencies for the specific components you wish to use.
     </dependency>
 </dependencies>
 ```
+
+## N5 Viewer Releases
+
+| Version | Date | Source |
+| ------- | ---- | ------ |
+| **1.0.0** | 30 Jun 2017 | [https://github.com/saalfeldlab/n5-viewer/tree/1.0.0] |
+
+### Components
+```
+<dependencies>
+    <dependency>
+        <groupId>org.janelia.saalfeldlab</groupId>
+        <artifactId>n5-viewer_fiji</artifactId>
+        <version>${n5-viewer_fiji.version}</version>
+    </dependency>
+</dependencies>
+```
