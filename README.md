@@ -114,3 +114,20 @@ Then add dependencies for the specific components you wish to use.
     </dependency>
 </dependencies>
 ```
+
+## BigCAT Releases
+
+| Version | Date | Source |
+| ------- | ---- | ------ |
+| **0.0.1-beta-1** | 1 Sep 2017 | [https://github.com/saalfeldlab/bigcat/tree/0.0.1-beta-1] |
+
+### Components
+```
+<dependencies>
+    <dependency>
+        <groupId>sc.fiji</groupId>
+        <artifactId>bigcat</artifactId>
+        <version>${bigcat.version}</version>
+    </dependency>
+</dependencies>
+```
