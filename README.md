@@ -98,6 +98,23 @@ Then add dependencies for the specific components you wish to use.
 </dependencies>
 ```
 
+## N5 Spark Releases
+
+| Version | Date | Source |
+| ------- | ---- | ------ |
+| **1.0.0** | 17 Sep 2017 | [https://github.com/saalfeldlab/n5-spark/tree/1.0.0] |
+
+### Components
+```
+<dependencies>
+    <dependency>
+        <groupId>org.janelia.saalfeldlab</groupId>
+        <artifactId>n5-spark</artifactId>
+        <version>${n5-spark.version}</version>
+    </dependency>
+</dependencies>
+```
+
 ## N5 Viewer Releases
 
 | Version | Date | Source |
