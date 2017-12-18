@@ -69,6 +69,7 @@ Then add dependencies for the specific components you wish to use.
 | **1.1.1** | 28 Jun 2017 | [https://github.com/saalfeldlab/n5/tree/1.1.1] |
 | **1.1.3** | 28 Jun 2017 | [https://github.com/saalfeldlab/n5/tree/1.1.3] |
 | **1.2.0** | 25 Aug 2017 | [https://github.com/saalfeldlab/n5/tree/1.2.0] |
+| **1.3.0** | 18 Dec 2017 | [https://github.com/saalfeldlab/n5/tree/1.3.0] |
 
 ### Components
 ```
