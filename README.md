@@ -118,6 +118,23 @@ Then add dependencies for the specific components you wish to use.
 </dependencies>
 ```
 
+## N5 AWS S3 Releases
+
+| Version | Date | Source |
+| ------- | ---- | ------ |
+| **1.0.0** | 19 Dec 2017 | [https://github.com/saalfeldlab/n5-aws-s3/tree/1.0.0] |
+
+### Components
+```
+<dependencies>
+    <dependency>
+        <groupId>org.janelia.saalfeldlab</groupId>
+        <artifactId>n5-aws-s3</artifactId>
+        <version>${n5-aws-s3.version}</version>
+    </dependency>
+</dependencies>
+```
+
 ## N5 Viewer Releases
 
 | Version | Date | Source |
