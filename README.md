@@ -135,6 +135,23 @@ Then add dependencies for the specific components you wish to use.
 </dependencies>
 ```
 
+## N5 Google Cloud Releases
+
+| Version | Date | Source |
+| ------- | ---- | ------ |
+| **1.0.0** | 19 Dec 2017 | [https://github.com/saalfeldlab/n5-google-cloud/tree/1.0.0] |
+
+### Components
+```
+<dependencies>
+    <dependency>
+        <groupId>org.janelia.saalfeldlab</groupId>
+        <artifactId>n5-google-cloud</artifactId>
+        <version>${n5-google-cloud.version}</version>
+    </dependency>
+</dependencies>
+```
+
 ## N5 Viewer Releases
 
 | Version | Date | Source |
