@@ -105,6 +105,7 @@ Then add dependencies for the specific components you wish to use.
 | Version | Date | Source |
 | ------- | ---- | ------ |
 | **1.0.0** | 17 Sep 2017 | [https://github.com/saalfeldlab/n5-spark/tree/1.0.0] |
+| **1.1.0** | 19 Dec 2017 | [https://github.com/saalfeldlab/n5-spark/tree/1.1.0] |
 
 ### Components
 ```
