@@ -157,6 +157,7 @@ Then add dependencies for the specific components you wish to use.
 | Version | Date | Source |
 | ------- | ---- | ------ |
 | **1.0.0** | 30 Jun 2017 | [https://github.com/saalfeldlab/n5-viewer/tree/1.0.0] |
+| **1.2.0** | 19 Dec 2017 | [https://github.com/saalfeldlab/n5-viewer/tree/1.2.0] |
 
 ### Components
 ```
