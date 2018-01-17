@@ -85,6 +85,23 @@ Then add dependencies for the specific components you wish to use.
 </dependencies>
 ```
 
+## N5 HDF5 Releases
+
+| Version | Date | Source |
+| ------- | ---- | ------ |
+| **1.0.0** | 17 Jan 2018 | [https://github.com/saalfeldlab/n5-hdf5/tree/1.0.0] |
+
+### Components
+```
+<dependencies>
+    <dependency>
+        <groupId>org.janelia.saalfeldlab</groupId>
+        <artifactId>n5-hdf5</artifactId>
+        <version>${n5-hdf5.version}</version>
+    </dependency>
+</dependencies>
+```
+
 ## N5 ImgLib2 Releases
 
 | Version | Date | Source |
