@@ -91,6 +91,7 @@ Then add dependencies for the specific components you wish to use.
 | ------- | ---- | ------ |
 | **1.0.0** | 21 Jun 2017 | [https://github.com/saalfeldlab/n5-imglib2/tree/1.0.0] |
 | **1.1.0** | 18 Dec 2017 | [https://github.com/saalfeldlab/n5-imglib2/tree/1.1.0] |
+| **2.0.0** | 17 Jan 2018 | [https://github.com/saalfeldlab/n5-imglib2/tree/2.0.0] |
 
 ### Components
 ```
