@@ -204,6 +204,7 @@ Then add dependencies for the specific components you wish to use.
 | Version | Date | Source |
 | ------- | ---- | ------ |
 | **0.0.1-beta-1** | 1 Sep 2017 | [https://github.com/saalfeldlab/bigcat/tree/0.0.1-beta-1] |
+| **0.0.3-beta-1** | 6 Feb 2018 | [https://github.com/saalfeldlab/bigcat/tree/0.0.3-beta-1] |
 
 ### Components
 ```
