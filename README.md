@@ -210,6 +210,22 @@ Then add dependencies for the specific components you wish to use.
 </dependencies>
 ```
 
+## N5 Label Multisets Releases
+| Version | Date | Source |
+| ------- | ---- | ------ |
+| **0.1.0** | 19 Apr 2018 | [https://github.com/saalfeldlab/n5-label-multisets/tree/0.1.0] |
+
+### Components
+```
+<dependencies>
+    <dependency>
+        <groupId>org.janelia.saalfeldlab</groupId>
+        <artifactId>n5-label-multisets</artifactId>
+        <version>${n5-label-multisets.version}</version>
+    </dependency>
+</dependencies>
+```
+
 ## BigCAT Releases
 
 | Version | Date | Source |
