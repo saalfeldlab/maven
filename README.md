@@ -179,6 +179,7 @@ Then add dependencies for the specific components you wish to use.
 | **2.1.1** | 20 Apr 2018 | [https://github.com/saalfeldlab/n5-google-cloud/tree/2.1.1] |
 | **2.2.0** | 20 Apr 2018 | [https://github.com/saalfeldlab/n5-google-cloud/tree/2.2.0] |
 | **2.3.0** | 23 Apr 2018 | [https://github.com/saalfeldlab/n5-google-cloud/tree/2.3.0] |
+| **2.3.1** | 23 Apr 2018 | [https://github.com/saalfeldlab/n5-google-cloud/tree/2.3.1] |
 
 ### Components
 ```
