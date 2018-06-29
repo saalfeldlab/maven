@@ -249,3 +249,19 @@ Then add dependencies for the specific components you wish to use.
     </dependency>
 </dependencies>
 ```
+
+## Label Utilities Spark Releases
+| Version | Date | Source |
+| ------- | ---- | ------ |
+| **0.1.0** | 29 Jun 2018 | [https://github.com/saalfeldlab/label-utilities-spark/tree/0.1.0] |
+
+### Components
+```
+<dependencies>
+    <dependency>
+        <groupId>org.janelia.saalfeldlab</groupId>
+        <artifactId>label-utilities-spark</artifactId>
+        <version>${n5-label-multisets.version}</version>
+    </dependency>
+</dependencies>
+```
