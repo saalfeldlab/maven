@@ -254,6 +254,7 @@ Then add dependencies for the specific components you wish to use.
 | Version | Date | Source |
 | ------- | ---- | ------ |
 | **0.1.0** | 29 Jun 2018 | [https://github.com/saalfeldlab/label-utilities-spark/tree/0.1.0] |
+| **0.1.1** | 03 Jul 2018 | [https://github.com/saalfeldlab/label-utilities-spark/tree/0.1.1] |
 
 ### Components
 ```
