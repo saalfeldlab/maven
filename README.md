@@ -266,3 +266,19 @@ Then add dependencies for the specific components you wish to use.
     </dependency>
 </dependencies>
 ```
+
+## Paintera Conversion Helper Releases
+| Version | Date | Source |
+| ------- | ---- | ------ |
+| **0.1.0** | 03 Jul 2018 | [https://github.com/saalfeldlab/paintera-conversion-helper/tree/0.1.0] |
+
+### Components
+```
+<dependencies>
+    <dependency>
+        <groupId>org.janelia.saalfeldlab</groupId>
+        <artifactId>paintera-conversion-helper</artifactId>
+        <version>${paintera-conversion-helper.version}</version>
+    </dependency>
+</dependencies>
+```
