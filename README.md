@@ -267,6 +267,22 @@ Then add dependencies for the specific components you wish to use.
 </dependencies>
 ```
 
+## Paintera Releases
+| Version | Date | Source |
+| ------- | ---- | ------ |
+| **0.1.0** | 09 Jul 2018 | [https://github.com/saalfeldlab/paintera/tree/0.1.0] |
+
+### Components
+```
+<dependencies>
+    <dependency>
+        <groupId>org.janelia.saalfeldlab</groupId>
+        <artifactId>paintera</artifactId>
+        <version>${paintera.version}</version>
+    </dependency>
+</dependencies>
+```
+
 ## Paintera Conversion Helper Releases
 | Version | Date | Source |
 | ------- | ---- | ------ |
