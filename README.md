@@ -298,3 +298,19 @@ Then add dependencies for the specific components you wish to use.
     </dependency>
 </dependencies>
 ```
+
+## ImgLib2 ImgLyb
+| Version | Date | Source |
+| ------- | ---- | ------ |
+| **0.1.0** | 10 Jul 2018 | [https://github.com/hanslovsky/imglib2-imglyb/tree/0.1.0] |
+
+### Components
+```
+<dependencies>
+    <dependency>
+        <groupId>net.imglib</groupId>
+        <artifactId>imglib2-imglyb</artifactId>
+        <version>${imglib2-imglyb.version}</version>
+    </dependency>
+</dependencies>
+```
