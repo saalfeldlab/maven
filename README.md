@@ -271,6 +271,7 @@ Then add dependencies for the specific components you wish to use.
 | Version | Date | Source |
 | ------- | ---- | ------ |
 | **0.1.0** | 09 Jul 2018 | [https://github.com/saalfeldlab/paintera/tree/0.1.0] |
+| **0.1.1** | 12 Jul 2018 | [https://github.com/saalfeldlab/paintera/tree/0.1.1] |
 
 ### Components
 ```
