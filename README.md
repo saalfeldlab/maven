@@ -291,6 +291,7 @@ Then add dependencies for the specific components you wish to use.
 | Version | Date | Source |
 | ------- | ---- | ------ |
 | **0.1.0** | 03 Jul 2018 | [https://github.com/saalfeldlab/paintera-conversion-helper/tree/0.1.0] |
+| **0.1.1** | 19 Jul 2018 | [https://github.com/saalfeldlab/paintera-conversion-helper/tree/0.1.1] |
 
 ### Components
 ```
