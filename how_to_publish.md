@@ -19,7 +19,7 @@ In your source root pom.xml, configure the maven distribution URL to point to th
             <plugins>
                 <plugin>
                     <artifactId>maven-deploy-plugin</artifactId>
-                    <version>2.8.1</version>
+                    <version>2.8.2</version>
                     <configuration>
                         <altDeploymentRepository>internal.repo::default::file://${deploy.path}</altDeploymentRepository>
                     </configuration>
