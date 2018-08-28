@@ -284,6 +284,7 @@ Then add dependencies for the specific components you wish to use.
 | **0.2.4** | 14 Aug 2018 | [https://github.com/saalfeldlab/paintera/tree/0.2.4] |
 | **0.2.5** | 16 Aug 2018 | [https://github.com/saalfeldlab/paintera/tree/0.2.5] |
 | **0.3.0** | 21 Aug 2018 | [https://github.com/saalfeldlab/paintera/tree/0.3.0] |
+| **0.4.0** | 28 Aug 2018 | [https://github.com/saalfeldlab/paintera/tree/0.4.0] |
 
 ### Components
 ```
