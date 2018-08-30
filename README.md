@@ -323,6 +323,7 @@ Then add dependencies for the specific components you wish to use.
 | **0.2.0** | 16 Jul 2018 | [https://github.com/hanslovsky/imglib2-imglyb/tree/0.2.0] |
 | **0.2.1** | 16 Jul 2018 | [https://github.com/hanslovsky/imglib2-imglyb/tree/0.2.1] |
 | **0.2.2** | 18 Jul 2018 | [https://github.com/hanslovsky/imglib2-imglyb/tree/0.2.2] |
+| **0.3.0** | 30 Aug 2018 | [https://github.com/hanslovsky/imglib2-imglyb/tree/0.3.0] |
 
 ### Components
 ```
