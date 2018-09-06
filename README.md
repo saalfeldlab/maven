@@ -253,6 +253,22 @@ Then add dependencies for the specific components you wish to use.
 </dependencies>
 ```
 
+## Label Utilities Releases
+| Version | Date | Source |
+| ------- | ---- | ------ |
+| **0.1.0** | 06 Sep 2018 | [https://github.com/saalfeldlab/label-utilities/tree/0.1.0] |
+
+### Components
+```
+<dependencies>
+    <dependency>
+        <groupId>org.janelia.saalfeldlab</groupId>
+        <artifactId>label-utilities</artifactId>
+        <version>${label-utilities.version}</version>
+    </dependency>
+</dependencies>
+```
+
 ## Label Utilities Spark Releases
 | Version | Date | Source |
 | ------- | ---- | ------ |
@@ -266,7 +282,7 @@ Then add dependencies for the specific components you wish to use.
     <dependency>
         <groupId>org.janelia.saalfeldlab</groupId>
         <artifactId>label-utilities-spark</artifactId>
-        <version>${n5-label-multisets.version}</version>
+        <version>${label-utilities-spark.version}</version>
     </dependency>
 </dependencies>
 ```
