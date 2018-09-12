@@ -223,6 +223,7 @@ Then add dependencies for the specific components you wish to use.
 | **0.2.0** | 30 Apr 2018 | [https://github.com/saalfeldlab/n5-label-multisets/tree/0.2.0] |
 | **0.3.0** | 28 Jun 2018 | [https://github.com/saalfeldlab/n5-label-multisets/tree/0.3.0] |
 | **0.4.0** | 18 Aug 2018 | [https://github.com/saalfeldlab/n5-label-multisets/tree/0.4.0] |
+| **0.4.1** | 12 Sep 2018 | [https://github.com/saalfeldlab/n5-label-multisets/tree/0.4.1] |
 
 ### Components
 ```
