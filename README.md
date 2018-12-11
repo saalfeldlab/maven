@@ -236,6 +236,22 @@ Then add dependencies for the specific components you wish to use.
 </dependencies>
 ```
 
+## N5 Utils Releases
+| Version | Date | Source |
+| ------- | ---- | ------ |
+| **0.0.2** | 11 Dec 2018 | [https://github.com/saalfeldlab/n5-utils/tree/0.0.2] |
+
+### Components
+```
+<dependencies>
+    <dependency>
+        <groupId>org.janelia.saalfeldlab</groupId>
+        <artifactId>n5-utils</artifactId>
+        <version>${n5-utils.version}</version>
+    </dependency>
+</dependencies>
+```
+
 ## BigCAT Releases
 
 | Version | Date | Source |
