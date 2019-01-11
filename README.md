@@ -23,6 +23,7 @@ Then add dependencies for the specific components you wish to use.
 | **0.3.0** | 5 Jan 2017 | [https://github.com/saalfeldlab/render/releases/tag/v0.3.0] |
 | **1.0.0** | 5 Jun 2017 | [https://github.com/saalfeldlab/render/releases/tag/v1.0.0] |
 | **2.0.1** | 27 Jul 2018 | [https://github.com/saalfeldlab/render/releases/tag/v2.0.1] |
+| **2.0.2** | 10 Jan 2019 | [https://github.com/saalfeldlab/render/releases/tag/v2.0.2] |
 
 ### Components
 ```
