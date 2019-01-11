@@ -137,5 +137,5 @@
             <url>file://${deploy.path}</url>
         </repository>
     </distributionManagement>
-    
+
 </project>
