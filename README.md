@@ -96,6 +96,7 @@ Then add dependencies for the specific components you wish to use.
 | **1.0.0** | 17 Jan 2018 | [https://github.com/saalfeldlab/n5-hdf5/tree/1.0.0] |
 | **1.0.1** | 02 Feb 2018 | [https://github.com/saalfeldlab/n5-hdf5/tree/1.0.1] |
 | **1.0.2** | 12 Mar 2018 | [https://github.com/saalfeldlab/n5-hdf5/tree/1.0.2] |
+| **1.0.3** | 19 Feb 2019 | [https://github.com/saalfeldlab/n5-hdf5/tree/1.0.3] |
 
 ### Components
 ```
