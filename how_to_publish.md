@@ -10,9 +10,6 @@ git clone https://github.com/saalfeldlab/maven.git
 
 In your source root pom.xml, configure the maven distribution URL to point to the local directory where you cloned the git repo.
 
-> NOTE: In the example below, the git repo was cloned under **/Users/trautmane/projects/git**, 
->       so the `deploy.path` property is passed as **/Users/trautmane/projects/git/maven**
-
 ```xml
     <build>
         <pluginManagement>
@@ -35,19 +32,19 @@ In your source root pom.xml, configure the maven distribution URL to point to th
             <url>file://${deploy.path}</url>
         </repository>
     </distributionManagement>
-
 ```
 
 ## 3. Deploy Source Artifacts Locally
 
+Run in the directory with the artifact you want to publish:
 ```bash
-mvn -Ddeploy.path=/Users/trautmane/projects/git/maven clean deploy
+<path to cloned maven repo>/deploy
 ```
 
 ## 4. Update README 
 
 ```bash
-cd /Users/trautmane/projects/git/maven
+cd <path to cloned maven repo>
 vim README.md
 
 # add information about new release to README
@@ -56,7 +53,7 @@ vim README.md
 ## 5. Commit Changes to GitHub 
 
 ```bash
-cd /Users/trautmane/projects/git/maven
+cd <path to cloned maven repo>
 git add .
 git commit -m "add release x.y.z for project foo"
 git push
