@@ -318,6 +318,7 @@ Then add dependencies for the specific components you wish to use.
 | **0.1.1** | 03 Jul 2018 | [https://github.com/saalfeldlab/label-utilities-spark/tree/0.1.1] |
 | **0.2.0** | 20 Jul 2018 | [https://github.com/saalfeldlab/label-utilities-spark/tree/0.2.0] |
 | **0.8.0** | 15 Apr 2019 | [https://github.com/saalfeldlab/label-utilities-spark/tree/0.8.0] |
+| **0.8.1** | 15 Apr 2019 | [https://github.com/saalfeldlab/label-utilities-spark/tree/0.8.1] |
 
 ### Components
 ```
