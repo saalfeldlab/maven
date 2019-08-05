@@ -259,6 +259,7 @@ Then add dependencies for the specific components you wish to use.
 | **0.7.0** | 10 Apr 2019 | [https://github.com/saalfeldlab/imglib2-label-multisets/tree/0.7.0] |
 | **0.8.0** | 12 Apr 2019 | [https://github.com/saalfeldlab/imglib2-label-multisets/tree/0.8.0] |
 | **0.8.1** | 25 Apr 2019 | [https://github.com/saalfeldlab/imglib2-label-multisets/tree/0.8.1] |
+| **0.8.2** | 05 Aug 2019 | [https://github.com/saalfeldlab/imglib2-label-multisets/tree/0.8.2] |
 
 ### Components
 ```
