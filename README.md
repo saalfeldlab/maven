@@ -220,6 +220,7 @@ Then add dependencies for the specific components you wish to use.
 | **1.2.0** | 19 Dec 2017 | [https://github.com/saalfeldlab/n5-viewer/tree/1.2.0] |
 | **2.0.0** | 17 Jan 2018 | [https://github.com/saalfeldlab/n5-viewer/tree/2.0.0] |
 | **2.1.0** | 02 Aug 2018 | [https://github.com/saalfeldlab/n5-viewer/tree/2.1.0] |
+| **2.2.0** | 08 Aug 2019 | [https://github.com/saalfeldlab/n5-viewer/tree/2.2.0] |
 
 ### Components
 ```
