@@ -91,6 +91,23 @@ Then add dependencies for the specific components you wish to use.
 </dependencies>
 ```
 
+## N5 Blosc Releases
+
+| Version | Date | Source |
+| ------- | ---- | ------ |
+| **1.0.0** | 24 Sep 2019 | [https://github.com/saalfeldlab/n5-blosc/tree/1.0.0] |
+
+### Components
+```
+<dependencies>
+    <dependency>
+        <groupId>org.janelia.saalfeldlab</groupId>
+        <artifactId>n5-blosc</artifactId>
+        <version>${n5-blosc.version}</version>
+    </dependency>
+</dependencies>
+```
+
 ## N5 HDF5 Releases
 
 | Version | Date | Source |
