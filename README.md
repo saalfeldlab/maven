@@ -307,6 +307,22 @@ Then add dependencies for the specific components you wish to use.
 </dependencies>
 ```
 
+## N5 Zarr Releases
+| Version | Date | Source |
+| ------- | ---- | ------ |
+| **0.0.1-beta** | 01 Oct 2019 | [https://github.com/saalfeldlab/n5-zarr/tree/0.0.1-beta] |
+
+### Components
+```
+<dependencies>
+    <dependency>
+        <groupId>org.janelia.saalfeldlab</groupId>
+        <artifactId>n5-zarr</artifactId>
+        <version>${n5-zarr.version}</version>
+    </dependency>
+</dependencies>
+```
+
 ## BigCAT Releases
 
 | Version | Date | Source |

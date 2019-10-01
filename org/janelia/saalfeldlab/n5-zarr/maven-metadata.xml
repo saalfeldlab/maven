@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.janelia.saalfeldlab</groupId>
+  <artifactId>n5-zarr</artifactId>
+  <versioning>
+    <release>0.0.1-beta</release>
+    <versions>
+      <version>0.0.1-beta</version>
+    </versions>
+    <lastUpdated>20191001162552</lastUpdated>
+  </versioning>
+</metadata>
