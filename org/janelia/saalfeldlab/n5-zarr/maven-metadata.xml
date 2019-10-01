@@ -3,10 +3,11 @@
   <groupId>org.janelia.saalfeldlab</groupId>
   <artifactId>n5-zarr</artifactId>
   <versioning>
-    <release>0.0.1-beta</release>
+    <release>0.0.2-beta</release>
     <versions>
       <version>0.0.1-beta</version>
+      <version>0.0.2-beta</version>
     </versions>
-    <lastUpdated>20191001162552</lastUpdated>
+    <lastUpdated>20191001195629</lastUpdated>
   </versioning>
 </metadata>

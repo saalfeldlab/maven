@@ -311,6 +311,7 @@ Then add dependencies for the specific components you wish to use.
 | Version | Date | Source |
 | ------- | ---- | ------ |
 | **0.0.1-beta** | 01 Oct 2019 | [https://github.com/saalfeldlab/n5-zarr/tree/0.0.1-beta] |
+| **0.0.2-beta** | 01 Oct 2019 | [https://github.com/saalfeldlab/n5-zarr/tree/0.0.2-beta] |
 
 ### Components
 ```
