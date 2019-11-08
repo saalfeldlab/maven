@@ -80,6 +80,7 @@ Then add dependencies for the specific components you wish to use.
 | **2.1.0** | 02 May 2019 | [https://github.com/saalfeldlab/n5/tree/2.1.0] |
 | **2.1.1** | 18 Jul 2019 | [https://github.com/saalfeldlab/n5/tree/2.1.1] |
 | **2.1.2** | 02 Oct 2019 | [https://github.com/saalfeldlab/n5/tree/2.1.2] |
+| **2.1.3** | 07 Nov 2019 | [https://github.com/saalfeldlab/n5/tree/2.1.3] |
 
 ### Components
 ```
@@ -97,6 +98,7 @@ Then add dependencies for the specific components you wish to use.
 | Version | Date | Source |
 | ------- | ---- | ------ |
 | **1.0.0** | 24 Sep 2019 | [https://github.com/saalfeldlab/n5-blosc/tree/1.0.0] |
+| **1.0.1** | 07 Nov 2019 | [https://github.com/saalfeldlab/n5-blosc/tree/1.0.1] |
 
 ### Components
 ```
