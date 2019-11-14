@@ -175,6 +175,7 @@ Then add dependencies for the specific components you wish to use.
 | **3.2.2** | 13 May 2019 | [https://github.com/saalfeldlab/n5-spark/tree/3.2.2] |
 | **3.3.0** | 16 May 2019 | [https://github.com/saalfeldlab/n5-spark/tree/3.3.0] |
 | **3.3.1** | 21 May 2019 | [https://github.com/saalfeldlab/n5-spark/tree/3.3.1] |
+| **3.3.2** | 14 Nov 2019 | [https://github.com/saalfeldlab/n5-spark/tree/3.3.2] |
 
 ### Components
 ```
