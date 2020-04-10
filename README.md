@@ -152,6 +152,7 @@ Then add dependencies for the specific components you wish to use.
 | **3.3.0** | 28 Mar 2019 | [https://github.com/saalfeldlab/n5-imglib2/tree/3.3.0] |
 | **3.4.0** | 09 Jul 2019 | [https://github.com/saalfeldlab/n5-imglib2/tree/3.4.0] |
 | **3.4.1** | 05 Aug 2019 | [https://github.com/saalfeldlab/n5-imglib2/tree/3.4.1] |
+| **3.5.0** | 10 Apr 2020 | [https://github.com/saalfeldlab/n5-imglib2/tree/3.5.0] |
 
 ### Components
 ```
