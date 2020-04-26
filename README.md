@@ -211,6 +211,7 @@ Then add dependencies for the specific components you wish to use.
 | **2.1.0** | 23 Apr 2018 | [https://github.com/saalfeldlab/n5-aws-s3/tree/2.1.0] |
 | **3.0.0** | 13 Feb 2020 | [https://github.com/saalfeldlab/n5-aws-s3/tree/3.0.0] |
 | **3.1.0** | 13 Apr 2020 | [https://github.com/saalfeldlab/n5-aws-s3/tree/3.1.0] |
+| **3.1.1** | 26 Apr 2020 | [https://github.com/saalfeldlab/n5-aws-s3/tree/3.1.1] |
 
 ### Components
 ```
