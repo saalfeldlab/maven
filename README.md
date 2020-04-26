@@ -240,6 +240,7 @@ Then add dependencies for the specific components you wish to use.
 | **3.0.0** | 08 Apr 2020 | [https://github.com/saalfeldlab/n5-google-cloud/tree/3.0.0] |
 | **3.1.0** | 13 Apr 2020 | [https://github.com/saalfeldlab/n5-google-cloud/tree/3.1.0] |
 | **3.2.0** | 22 Apr 2020 | [https://github.com/saalfeldlab/n5-google-cloud/tree/3.2.0] |
+| **3.2.1** | 26 Apr 2020 | [https://github.com/saalfeldlab/n5-google-cloud/tree/3.2.1] |
 
 ### Components
 ```
