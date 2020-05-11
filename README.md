@@ -338,6 +338,7 @@ Then add dependencies for the specific components you wish to use.
 | ------- | ---- | ------ |
 | **0.0.1-beta** | 01 Oct 2019 | [https://github.com/saalfeldlab/n5-zarr/tree/0.0.1-beta] |
 | **0.0.2-beta** | 01 Oct 2019 | [https://github.com/saalfeldlab/n5-zarr/tree/0.0.2-beta] |
+| **0.0.3-beta** | 11 May 2020 | [https://github.com/saalfeldlab/n5-zarr/tree/0.0.3-beta] |
 
 ### Components
 ```
