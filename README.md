@@ -65,6 +65,29 @@ Then add dependencies for the specific components you wish to use.
 
 ## N5 Releases
 
+This artifact moved to [maven.scijava.org](https://maven.scijava.org/#nexus-search;gav~org.janelia.saalfeldlab~n5~~~~kw,versionexpand).  Please use
+```
+<repositories>
+	<repository>
+		<id>scijava.public</id>
+		<url>https://maven.scijava.org/content/groups/public</url>
+	</repository>
+</repositories>
+```
+
+### Components
+```
+<dependencies>
+    <dependency>
+        <groupId>org.janelia.saalfeldlab</groupId>
+        <artifactId>n5</artifactId>
+        <version>${n5.version}</version>
+    </dependency>
+</dependencies>
+```
+
+### History in this repository
+
 | Version | Date | Source |
 | ------- | ---- | ------ |
 | **1.0.0** | 21 Jun 2017 | [https://github.com/saalfeldlab/n5/tree/1.0.0] |
@@ -87,23 +110,17 @@ Then add dependencies for the specific components you wish to use.
 | **2.1.6** | 03 Mar 2020 | [https://github.com/saalfeldlab/n5/tree/2.1.6] |
 | **2.2.0** | 09 Apr 2020 | [https://github.com/saalfeldlab/n5/tree/2.2.0] |
 
-### Components
-```
-<dependencies>
-    <dependency>
-        <groupId>org.janelia.saalfeldlab</groupId>
-        <artifactId>n5</artifactId>
-        <version>${n5.version}</version>
-    </dependency>
-</dependencies>
-```
-
 ## N5 Blosc Releases
 
-| Version | Date | Source |
-| ------- | ---- | ------ |
-| **1.0.0** | 24 Sep 2019 | [https://github.com/saalfeldlab/n5-blosc/tree/1.0.0] |
-| **1.0.1** | 07 Nov 2019 | [https://github.com/saalfeldlab/n5-blosc/tree/1.0.1] |
+This artifact moved to [maven.scijava.org](https://maven.scijava.org/#nexus-search;gav~org.janelia.saalfeldlab~n5-blosc~~~~kw,versionexpand).  Please use
+```
+<repositories>
+	<repository>
+		<id>scijava.public</id>
+		<url>https://maven.scijava.org/content/groups/public</url>
+	</repository>
+</repositories>
+```
 
 ### Components
 ```
@@ -116,15 +133,24 @@ Then add dependencies for the specific components you wish to use.
 </dependencies>
 ```
 
-## N5 HDF5 Releases
+### History in this repository
 
 | Version | Date | Source |
 | ------- | ---- | ------ |
-| **1.0.0** | 17 Jan 2018 | [https://github.com/saalfeldlab/n5-hdf5/tree/1.0.0] |
-| **1.0.1** | 02 Feb 2018 | [https://github.com/saalfeldlab/n5-hdf5/tree/1.0.1] |
-| **1.0.2** | 12 Mar 2018 | [https://github.com/saalfeldlab/n5-hdf5/tree/1.0.2] |
-| **1.0.3** | 19 Feb 2019 | [https://github.com/saalfeldlab/n5-hdf5/tree/1.0.3] |
-| **1.0.4** | 27 Jun 2019 | [https://github.com/saalfeldlab/n5-hdf5/tree/1.0.4] |
+| **1.0.0** | 24 Sep 2019 | [https://github.com/saalfeldlab/n5-blosc/tree/1.0.0] |
+| **1.0.1** | 07 Nov 2019 | [https://github.com/saalfeldlab/n5-blosc/tree/1.0.1] |
+
+## N5 HDF5 Releases
+
+This artifact moved to [maven.scijava.org](https://maven.scijava.org/#nexus-search;gav~org.janelia.saalfeldlab~n5-hdf5~~~~kw,versionexpand).  Please use
+```
+<repositories>
+	<repository>
+		<id>scijava.public</id>
+		<url>https://maven.scijava.org/content/groups/public</url>
+	</repository>
+</repositories>
+```
 
 ### Components
 ```
@@ -137,7 +163,40 @@ Then add dependencies for the specific components you wish to use.
 </dependencies>
 ```
 
+### History in this repository
+
+| Version | Date | Source |
+| ------- | ---- | ------ |
+| **1.0.0** | 17 Jan 2018 | [https://github.com/saalfeldlab/n5-hdf5/tree/1.0.0] |
+| **1.0.1** | 02 Feb 2018 | [https://github.com/saalfeldlab/n5-hdf5/tree/1.0.1] |
+| **1.0.2** | 12 Mar 2018 | [https://github.com/saalfeldlab/n5-hdf5/tree/1.0.2] |
+| **1.0.3** | 19 Feb 2019 | [https://github.com/saalfeldlab/n5-hdf5/tree/1.0.3] |
+| **1.0.4** | 27 Jun 2019 | [https://github.com/saalfeldlab/n5-hdf5/tree/1.0.4] |
+
 ## N5 ImgLib2 Releases
+
+This artifact moved to [maven.scijava.org](https://maven.scijava.org/#nexus-search;gav~org.janelia.saalfeldlab~n5-imglib2~~~~kw,versionexpand).  Please use
+```
+<repositories>
+	<repository>
+		<id>scijava.public</id>
+		<url>https://maven.scijava.org/content/groups/public</url>
+	</repository>
+</repositories>
+```
+
+### Components
+```
+<dependencies>
+    <dependency>
+        <groupId>org.janelia.saalfeldlab</groupId>
+        <artifactId>n5-imglib2</artifactId>
+        <version>${n5-imglib2.version}</version>
+    </dependency>
+</dependencies>
+```
+
+### History in this repository
 
 | Version | Date | Source |
 | ------- | ---- | ------ |
@@ -154,18 +213,30 @@ Then add dependencies for the specific components you wish to use.
 | **3.4.1** | 05 Aug 2019 | [https://github.com/saalfeldlab/n5-imglib2/tree/3.4.1] |
 | **3.5.0** | 10 Apr 2020 | [https://github.com/saalfeldlab/n5-imglib2/tree/3.5.0] |
 
+## N5 Spark Releases
+
+This artifact moved to [maven.scijava.org](https://maven.scijava.org/#nexus-search;gav~org.janelia.saalfeldlab~n5-spark~~~~kw,versionexpand).  Please use
+```
+<repositories>
+	<repository>
+		<id>scijava.public</id>
+		<url>https://maven.scijava.org/content/groups/public</url>
+	</repository>
+</repositories>
+```
+
 ### Components
 ```
 <dependencies>
     <dependency>
         <groupId>org.janelia.saalfeldlab</groupId>
-        <artifactId>n5-imglib2</artifactId>
-        <version>${n5-imglib2.version}</version>
+        <artifactId>n5-spark</artifactId>
+        <version>${n5-spark.version}</version>
     </dependency>
 </dependencies>
 ```
 
-## N5 Spark Releases
+### History in this repository
 
 | Version | Date | Source |
 | ------- | ---- | ------ |
@@ -190,29 +261,17 @@ Then add dependencies for the specific components you wish to use.
 | **3.6.0** | 22 Apr 2020 | [https://github.com/saalfeldlab/n5-spark/tree/3.6.0] |
 | **3.7.0** | 29 Apr 2020 | [https://github.com/saalfeldlab/n5-spark/tree/3.7.0] |
 
-### Components
-```
-<dependencies>
-    <dependency>
-        <groupId>org.janelia.saalfeldlab</groupId>
-        <artifactId>n5-spark</artifactId>
-        <version>${n5-spark.version}</version>
-    </dependency>
-</dependencies>
-```
-
 ## N5 AWS S3 Releases
 
-| Version | Date | Source |
-| ------- | ---- | ------ |
-| **1.0.0** | 19 Dec 2017 | [https://github.com/saalfeldlab/n5-aws-s3/tree/1.0.0] |
-| **2.0.0** | 17 Jan 2018 | [https://github.com/saalfeldlab/n5-aws-s3/tree/2.0.0] |
-| **2.0.1** | 02 Feb 2018 | [https://github.com/saalfeldlab/n5-aws-s3/tree/2.0.1] |
-| **2.0.2** | 14 Mar 2018 | [https://github.com/saalfeldlab/n5-aws-s3/tree/2.0.2] |
-| **2.1.0** | 23 Apr 2018 | [https://github.com/saalfeldlab/n5-aws-s3/tree/2.1.0] |
-| **3.0.0** | 13 Feb 2020 | [https://github.com/saalfeldlab/n5-aws-s3/tree/3.0.0] |
-| **3.1.0** | 13 Apr 2020 | [https://github.com/saalfeldlab/n5-aws-s3/tree/3.1.0] |
-| **3.1.1** | 26 Apr 2020 | [https://github.com/saalfeldlab/n5-aws-s3/tree/3.1.1] |
+This artifact moved to [maven.scijava.org](https://maven.scijava.org/#nexus-search;gav~org.janelia.saalfeldlab~n5-aws-s3~~~~kw,versionexpand).  Please use
+```
+<repositories>
+	<repository>
+		<id>scijava.public</id>
+		<url>https://maven.scijava.org/content/groups/public</url>
+	</repository>
+</repositories>
+```
 
 ### Components
 ```
@@ -225,7 +284,43 @@ Then add dependencies for the specific components you wish to use.
 </dependencies>
 ```
 
+### History in this repository
+
+| Version | Date | Source |
+| ------- | ---- | ------ |
+| **1.0.0** | 19 Dec 2017 | [https://github.com/saalfeldlab/n5-aws-s3/tree/1.0.0] |
+| **2.0.0** | 17 Jan 2018 | [https://github.com/saalfeldlab/n5-aws-s3/tree/2.0.0] |
+| **2.0.1** | 02 Feb 2018 | [https://github.com/saalfeldlab/n5-aws-s3/tree/2.0.1] |
+| **2.0.2** | 14 Mar 2018 | [https://github.com/saalfeldlab/n5-aws-s3/tree/2.0.2] |
+| **2.1.0** | 23 Apr 2018 | [https://github.com/saalfeldlab/n5-aws-s3/tree/2.1.0] |
+| **3.0.0** | 13 Feb 2020 | [https://github.com/saalfeldlab/n5-aws-s3/tree/3.0.0] |
+| **3.1.0** | 13 Apr 2020 | [https://github.com/saalfeldlab/n5-aws-s3/tree/3.1.0] |
+| **3.1.1** | 26 Apr 2020 | [https://github.com/saalfeldlab/n5-aws-s3/tree/3.1.1] |
+
 ## N5 Google Cloud Releases
+
+This artifact moved to [maven.scijava.org](https://maven.scijava.org/#nexus-search;gav~org.janelia.saalfeldlab~n5-google-cloud~~~~kw,versionexpand).  Please use
+```
+<repositories>
+	<repository>
+		<id>scijava.public</id>
+		<url>https://maven.scijava.org/content/groups/public</url>
+	</repository>
+</repositories>
+```
+
+### Components
+```
+<dependencies>
+    <dependency>
+        <groupId>org.janelia.saalfeldlab</groupId>
+        <artifactId>n5-google-cloud</artifactId>
+        <version>${n5-google-cloud.version}</version>
+    </dependency>
+</dependencies>
+```
+
+### History in this repository
 
 | Version | Date | Source |
 | ------- | ---- | ------ |
@@ -243,26 +338,17 @@ Then add dependencies for the specific components you wish to use.
 | **3.2.0** | 22 Apr 2020 | [https://github.com/saalfeldlab/n5-google-cloud/tree/3.2.0] |
 | **3.2.1** | 26 Apr 2020 | [https://github.com/saalfeldlab/n5-google-cloud/tree/3.2.1] |
 
-### Components
-```
-<dependencies>
-    <dependency>
-        <groupId>org.janelia.saalfeldlab</groupId>
-        <artifactId>n5-google-cloud</artifactId>
-        <version>${n5-google-cloud.version}</version>
-    </dependency>
-</dependencies>
-```
-
 ## N5 Viewer Releases
 
-| Version | Date | Source |
-| ------- | ---- | ------ |
-| **1.0.0** | 30 Jun 2017 | [https://github.com/saalfeldlab/n5-viewer/tree/1.0.0] |
-| **1.2.0** | 19 Dec 2017 | [https://github.com/saalfeldlab/n5-viewer/tree/1.2.0] |
-| **2.0.0** | 17 Jan 2018 | [https://github.com/saalfeldlab/n5-viewer/tree/2.0.0] |
-| **2.1.0** | 02 Aug 2018 | [https://github.com/saalfeldlab/n5-viewer/tree/2.1.0] |
-| **2.2.0** | 08 Aug 2019 | [https://github.com/saalfeldlab/n5-viewer/tree/2.2.0] |
+This artifact moved to [maven.scijava.org](https://maven.scijava.org/#nexus-search;gav~org.janelia.saalfeldlab~n5-viewer~~~~kw,versionexpand).  Please use
+```
+<repositories>
+	<repository>
+		<id>scijava.public</id>
+		<url>https://maven.scijava.org/content/groups/public</url>
+	</repository>
+</repositories>
+```
 
 ### Components
 ```
@@ -275,7 +361,18 @@ Then add dependencies for the specific components you wish to use.
 </dependencies>
 ```
 
+### History in this repository
+
+| Version | Date | Source |
+| ------- | ---- | ------ |
+| **1.0.0** | 30 Jun 2017 | [https://github.com/saalfeldlab/n5-viewer/tree/1.0.0] |
+| **1.2.0** | 19 Dec 2017 | [https://github.com/saalfeldlab/n5-viewer/tree/1.2.0] |
+| **2.0.0** | 17 Jan 2018 | [https://github.com/saalfeldlab/n5-viewer/tree/2.0.0] |
+| **2.1.0** | 02 Aug 2018 | [https://github.com/saalfeldlab/n5-viewer/tree/2.1.0] |
+| **2.2.0** | 08 Aug 2019 | [https://github.com/saalfeldlab/n5-viewer/tree/2.2.0] |
+
 ## N5 Label Multisets Releases (DEPRECATED)
+
 | Version | Date | Source |
 | ------- | ---- | ------ |
 | **0.1.0** | 19 Apr 2018 | [https://github.com/saalfeldlab/n5-label-multisets/tree/0.1.0] |
@@ -296,15 +393,16 @@ Then add dependencies for the specific components you wish to use.
 ```
 
 ## ImgLib2 Label Multisets Releases
-| Version | Date | Source |
-| ------- | ---- | ------ |
-| **0.5.0** | 05 Mar 2019 | [https://github.com/saalfeldlab/imglib2-label-multisets/tree/0.5.0] |
-| **0.6.0** | 12 Mar 2019 | [https://github.com/saalfeldlab/imglib2-label-multisets/tree/0.6.0] |
-| **0.7.0** | 10 Apr 2019 | [https://github.com/saalfeldlab/imglib2-label-multisets/tree/0.7.0] |
-| **0.8.0** | 12 Apr 2019 | [https://github.com/saalfeldlab/imglib2-label-multisets/tree/0.8.0] |
-| **0.8.1** | 25 Apr 2019 | [https://github.com/saalfeldlab/imglib2-label-multisets/tree/0.8.1] |
-| **0.8.2** | 05 Aug 2019 | [https://github.com/saalfeldlab/imglib2-label-multisets/tree/0.8.2] |
-| **0.9.0** | 03 Oct 2019 | [https://github.com/saalfeldlab/imglib2-label-multisets/tree/0.9.0] |
+
+This artifact moved to [maven.scijava.org](https://maven.scijava.org/#nexus-search;gav~net.imglib2~imglib2-label-multisets~~~~kw,versionexpand).  Please use
+```
+<repositories>
+	<repository>
+		<id>scijava.public</id>
+		<url>https://maven.scijava.org/content/groups/public</url>
+	</repository>
+</repositories>
+```
 
 ### Components
 ```
@@ -317,10 +415,29 @@ Then add dependencies for the specific components you wish to use.
 </dependencies>
 ```
 
-## N5 Utils Releases
+### History in this repository
+
 | Version | Date | Source |
 | ------- | ---- | ------ |
-| **0.0.2** | 11 Dec 2018 | [https://github.com/saalfeldlab/n5-utils/tree/0.0.2] |
+| **0.5.0** | 05 Mar 2019 | [https://github.com/saalfeldlab/imglib2-label-multisets/tree/0.5.0] |
+| **0.6.0** | 12 Mar 2019 | [https://github.com/saalfeldlab/imglib2-label-multisets/tree/0.6.0] |
+| **0.7.0** | 10 Apr 2019 | [https://github.com/saalfeldlab/imglib2-label-multisets/tree/0.7.0] |
+| **0.8.0** | 12 Apr 2019 | [https://github.com/saalfeldlab/imglib2-label-multisets/tree/0.8.0] |
+| **0.8.1** | 25 Apr 2019 | [https://github.com/saalfeldlab/imglib2-label-multisets/tree/0.8.1] |
+| **0.8.2** | 05 Aug 2019 | [https://github.com/saalfeldlab/imglib2-label-multisets/tree/0.8.2] |
+| **0.9.0** | 03 Oct 2019 | [https://github.com/saalfeldlab/imglib2-label-multisets/tree/0.9.0] |
+
+## N5 Utils Releases
+
+This artifact moved to [maven.scijava.org](https://maven.scijava.org/#nexus-search;gav~org.janelia.saalfeldlab~n5-utils~~~~kw,versionexpand).  Please use
+```
+<repositories>
+	<repository>
+		<id>scijava.public</id>
+		<url>https://maven.scijava.org/content/groups/public</url>
+	</repository>
+</repositories>
+```
 
 ### Components
 ```
@@ -333,12 +450,23 @@ Then add dependencies for the specific components you wish to use.
 </dependencies>
 ```
 
-## N5 Zarr Releases
+### History in this repository
+
 | Version | Date | Source |
 | ------- | ---- | ------ |
-| **0.0.1-beta** | 01 Oct 2019 | [https://github.com/saalfeldlab/n5-zarr/tree/0.0.1-beta] |
-| **0.0.2-beta** | 01 Oct 2019 | [https://github.com/saalfeldlab/n5-zarr/tree/0.0.2-beta] |
-| **0.0.3-beta** | 11 May 2020 | [https://github.com/saalfeldlab/n5-zarr/tree/0.0.3-beta] |
+| **0.0.2** | 11 Dec 2018 | [https://github.com/saalfeldlab/n5-utils/tree/0.0.2] |
+
+## N5 Zarr Releases
+
+This artifact moved to [maven.scijava.org](https://maven.scijava.org/#nexus-search;gav~org.janelia.saalfeldlab~n5-zarr~~~~kw,versionexpand).  Please use
+```
+<repositories>
+	<repository>
+		<id>scijava.public</id>
+		<url>https://maven.scijava.org/content/groups/public</url>
+	</repository>
+</repositories>
+```
 
 ### Components
 ```
@@ -350,6 +478,14 @@ Then add dependencies for the specific components you wish to use.
     </dependency>
 </dependencies>
 ```
+
+### History in this repository
+
+| Version | Date | Source |
+| ------- | ---- | ------ |
+| **0.0.1-beta** | 01 Oct 2019 | [https://github.com/saalfeldlab/n5-zarr/tree/0.0.1-beta] |
+| **0.0.2-beta** | 01 Oct 2019 | [https://github.com/saalfeldlab/n5-zarr/tree/0.0.2-beta] |
+| **0.0.3-beta** | 11 May 2020 | [https://github.com/saalfeldlab/n5-zarr/tree/0.0.3-beta] |
 
 ## BigCAT Releases
 
@@ -386,6 +522,7 @@ Then add dependencies for the specific components you wish to use.
 ```
 
 ## Label Utilities Spark Releases
+
 | Version | Date | Source |
 | ------- | ---- | ------ |
 | **0.1.0** | 29 Jun 2018 | [https://github.com/saalfeldlab/label-utilities-spark/tree/0.1.0] |
@@ -406,6 +543,7 @@ Then add dependencies for the specific components you wish to use.
 ```
 
 ## Paintera Releases
+
 | Version | Date | Source |
 | ------- | ---- | ------ |
 | **0.1.0** | 09 Jul 2018 | [https://github.com/saalfeldlab/paintera/tree/0.1.0] |
@@ -432,6 +570,7 @@ Then add dependencies for the specific components you wish to use.
 ```
 
 ## Paintera Conversion Helper Releases
+
 | Version | Date | Source |
 | ------- | ---- | ------ |
 | **0.1.0** | 03 Jul 2018 | [https://github.com/saalfeldlab/paintera-conversion-helper/tree/0.1.0] |
@@ -451,6 +590,7 @@ Then add dependencies for the specific components you wish to use.
 ```
 
 ## ImgLib2 ImgLyb
+
 | Version | Date | Source |
 | ------- | ---- | ------ |
 | **0.1.0** | 10 Jul 2018 | [https://github.com/hanslovsky/imglib2-imglyb/tree/0.1.0] |
