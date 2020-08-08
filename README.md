@@ -25,6 +25,7 @@ Then add dependencies for the specific components you wish to use.
 | **2.0.1** | 27 Jul 2018 | [https://github.com/saalfeldlab/render/tree/v2.0.1] |
 | **2.0.2** | 10 Jan 2019 | [https://github.com/saalfeldlab/render/tree/v2.0.2] |
 | **2.1.0** | 08 Nov 2019 | [https://github.com/saalfeldlab/render/tree/v2.1.0] |
+| **2.3.0** | 07 Aug 2020 | [https://github.com/saalfeldlab/render/tree/v2.3.0] |
 
 ### Components
 ```
