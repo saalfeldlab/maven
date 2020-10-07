@@ -372,6 +372,23 @@ This artifact moved to [maven.scijava.org](https://maven.scijava.org/#nexus-sear
 | **2.1.0** | 02 Aug 2018 | [https://github.com/saalfeldlab/n5-viewer/tree/2.1.0] |
 | **2.2.0** | 08 Aug 2019 | [https://github.com/saalfeldlab/n5-viewer/tree/2.2.0] |
 
+## N5 JPEG Releases
+
+| Version | Date | Source |
+| ------- | ---- | ------ |
+| **0.0.1-beta1** | 07 Oct 2020 | [https://github.com/saalfeldlab/n5-jpeg/tree/n5-jpeg-0.0.1-beta1] |
+
+### Components
+```
+<dependencies>
+    <dependency>
+        <groupId>org.janelia.saalfeldlab</groupId>
+        <artifactId>n5-jpeg</artifactId>
+        <version>${n5-jpeg.version}</version>
+    </dependency>
+</dependencies>
+```
+
 ## N5 Label Multisets Releases (DEPRECATED)
 
 | Version | Date | Source |
