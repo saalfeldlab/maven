@@ -40,7 +40,7 @@ In your source root pom.xml, configure the maven distribution URL to point to th
 
 Run in the directory with the artifact you want to publish:
 ```bash
-cd <path to cloned maven repo>/deploy
+<path to cloned maven repo>/deploy
 ```
 
 ## 4. Update README 
