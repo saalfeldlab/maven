@@ -12,18 +12,18 @@
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.1.6-beta-1-20220319.145143-1</value>
+        <value>1.1.6-beta-1</value>
         <updated>20220319145143</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.1.6-beta-1-20220319.145143-1</value>
+        <value>1.1.6-beta-1</value>
         <updated>20220319145143</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>1.1.6-beta-1-20220319.145143-1</value>
+        <value>1.1.6-beta-1</value>
         <updated>20220319145143</updated>
       </snapshotVersion>
     </snapshotVersions>
