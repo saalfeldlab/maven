@@ -628,3 +628,20 @@ This artifact moved to [maven.scijava.org](https://maven.scijava.org/#nexus-sear
     </dependency>
 </dependencies>
 ```
+
+## Surface Fit Releases
+
+| Version | Date | Source |
+| ------- | ---- | ------ |
+| **1.1.6-beta-1-SNAPSHOT** | 7 May 2021 | [https://github.com/JaneliaSciComp/SurfaceFit/commit/08a5abb84e7c1edde88435751b166fd0cd8ce57b] |
+
+### Components
+```
+<dependencies>
+    <dependency>
+        <groupId>de.mpicbg.scf</groupId>
+	<artifactId>MinCostZSurface_</artifactId>
+	<version>1.1.6-beta-1-SNAPSHOT</version>
+    </dependency>
+</dependencies>
+```
