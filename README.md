@@ -645,3 +645,20 @@ This artifact moved to [maven.scijava.org](https://maven.scijava.org/#nexus-sear
     </dependency>
 </dependencies>
 ```
+
+## javacpp-embedded-python Releases
+
+| Version   | Date        | Source |
+|-----------|-------------| ------ |
+| **1.0.0** | 17 Jun 2020 | [https://github.com/saalfeldlab/javacpp-embedded-python/tree/1.0.0] |
+
+### Components
+```
+<dependencies>
+    <dependency>
+        <groupId>org.bytedeco</groupId>
+        <artifactId>javacpp-embedded-python</artifactId>
+        <version>1.0.0</version>
+    </dependency>
+</dependencies>
+```
